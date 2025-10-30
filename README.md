@@ -17,12 +17,6 @@ A simple top-down survival game built with C++17 and SFML, featuring a minimal E
 - Escape: Close the game
 - Debug overlay shows entity count, enemy count, player HP, and elapsed time
 
-## Requirements
-
-- C++17 compatible compiler
-- CMake 3.14 or higher
-- SFML 2.5 or higher
-
 ## Build Instructions
 
 1. Create a build directory:
@@ -50,8 +44,6 @@ TopDownSurvival.exe  # On Windows
 - Colliding with enemies reduces player HP by 10
 - Game ends when player HP reaches 0
 
-## Implementation Details
-
 ### ECS Architecture
 
 The game uses a simple ECS architecture with the following components:
@@ -71,14 +63,3 @@ The game uses a simple ECS architecture with the following components:
 - Collision System: Handles entity collisions
 - Rendering System: Draws entities
 - Debug System: Shows game statistics
-
-## Possible Extensions
-
-1. Add projectiles and shooting mechanics
-2. Implement power-ups
-3. Add different enemy types
-4. Include sound effects and music
-5. Add scoring system
-6. Implement game states (menu, pause, etc.)
-7. Add visual effects (particles, screen shake)
-8. Include different player abilities
