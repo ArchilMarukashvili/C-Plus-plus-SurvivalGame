@@ -1,0 +1,3 @@
+C:/Users/achik/Documents/cvproject/TopDownSurvival/build/CMakeFiles/TopDownSurvival.dir
+C:/Users/achik/Documents/cvproject/TopDownSurvival/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/achik/Documents/cvproject/TopDownSurvival/build/CMakeFiles/ZERO_CHECK.dir
